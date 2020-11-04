@@ -1,0 +1,32 @@
+E:\KULIAH\pemrograman 2\kebisaanku\bin\Debug\net5.0\kebisaanku.exe
+E:\KULIAH\pemrograman 2\kebisaanku\bin\Debug\net5.0\kebisaanku.deps.json
+E:\KULIAH\pemrograman 2\kebisaanku\bin\Debug\net5.0\kebisaanku.runtimeconfig.json
+E:\KULIAH\pemrograman 2\kebisaanku\bin\Debug\net5.0\kebisaanku.runtimeconfig.dev.json
+E:\KULIAH\pemrograman 2\kebisaanku\bin\Debug\net5.0\kebisaanku.dll
+E:\KULIAH\pemrograman 2\kebisaanku\bin\Debug\net5.0\ref\kebisaanku.dll
+E:\KULIAH\pemrograman 2\kebisaanku\bin\Debug\net5.0\kebisaanku.pdb
+E:\KULIAH\pemrograman 2\kebisaanku\obj\Debug\net5.0\kebisaanku.csprojAssemblyReference.cache
+E:\KULIAH\pemrograman 2\kebisaanku\obj\Debug\net5.0\kebisaanku.GeneratedMSBuildEditorConfig.editorconfig
+E:\KULIAH\pemrograman 2\kebisaanku\obj\Debug\net5.0\kebisaanku.AssemblyInfoInputs.cache
+E:\KULIAH\pemrograman 2\kebisaanku\obj\Debug\net5.0\kebisaanku.AssemblyInfo.cs
+E:\KULIAH\pemrograman 2\kebisaanku\obj\Debug\net5.0\kebisaanku.csproj.CoreCompileInputs.cache
+E:\KULIAH\pemrograman 2\kebisaanku\obj\Debug\net5.0\kebisaanku.dll
+E:\KULIAH\pemrograman 2\kebisaanku\obj\Debug\net5.0\ref\kebisaanku.dll
+E:\KULIAH\pemrograman 2\kebisaanku\obj\Debug\net5.0\kebisaanku.pdb
+E:\KULIAH\pemrograman 2\kebisaanku\obj\Debug\net5.0\kebisaanku.genruntimeconfig.cache
+E:\KULIAH\pemrograman2\baru\kebisaanku\bin\Debug\net5.0\kebisaanku.exe
+E:\KULIAH\pemrograman2\baru\kebisaanku\bin\Debug\net5.0\kebisaanku.deps.json
+E:\KULIAH\pemrograman2\baru\kebisaanku\bin\Debug\net5.0\kebisaanku.runtimeconfig.json
+E:\KULIAH\pemrograman2\baru\kebisaanku\bin\Debug\net5.0\kebisaanku.runtimeconfig.dev.json
+E:\KULIAH\pemrograman2\baru\kebisaanku\bin\Debug\net5.0\kebisaanku.dll
+E:\KULIAH\pemrograman2\baru\kebisaanku\bin\Debug\net5.0\ref\kebisaanku.dll
+E:\KULIAH\pemrograman2\baru\kebisaanku\bin\Debug\net5.0\kebisaanku.pdb
+E:\KULIAH\pemrograman2\baru\kebisaanku\obj\Debug\net5.0\kebisaanku.csprojAssemblyReference.cache
+E:\KULIAH\pemrograman2\baru\kebisaanku\obj\Debug\net5.0\kebisaanku.GeneratedMSBuildEditorConfig.editorconfig
+E:\KULIAH\pemrograman2\baru\kebisaanku\obj\Debug\net5.0\kebisaanku.AssemblyInfoInputs.cache
+E:\KULIAH\pemrograman2\baru\kebisaanku\obj\Debug\net5.0\kebisaanku.AssemblyInfo.cs
+E:\KULIAH\pemrograman2\baru\kebisaanku\obj\Debug\net5.0\kebisaanku.csproj.CoreCompileInputs.cache
+E:\KULIAH\pemrograman2\baru\kebisaanku\obj\Debug\net5.0\kebisaanku.dll
+E:\KULIAH\pemrograman2\baru\kebisaanku\obj\Debug\net5.0\ref\kebisaanku.dll
+E:\KULIAH\pemrograman2\baru\kebisaanku\obj\Debug\net5.0\kebisaanku.pdb
+E:\KULIAH\pemrograman2\baru\kebisaanku\obj\Debug\net5.0\kebisaanku.genruntimeconfig.cache
